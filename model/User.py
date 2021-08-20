@@ -1,5 +1,5 @@
 from model.DatabasePool import DatabasePool
-#from config.Settings import Settings
+from config.Settings import Settings
 import datetime
 import jwt
 
